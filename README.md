@@ -1,1 +1,1 @@
-# iRML-Semantic-aware-Communication-Networks
+# iRML Semantic-aware Communication Networks
