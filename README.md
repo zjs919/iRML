@@ -6,3 +6,11 @@ We propose a novel reasoning-based implicit semantic-aware communication network
 <p align="center">
 <img src="Figures/Framework.png" width="800">
 </p>
+
+## How to Use
+Follow the instructions under different folders to get the numerical results of each module within the proposed architecture. 
+
+## If you use our code, please cite the paper
+```
+
+```
