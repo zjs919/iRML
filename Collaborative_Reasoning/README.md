@@ -18,4 +18,4 @@ The Pubmed dataset is also included, but the results are not presented in the pa
   * numpy
 
 ## How to Use
-Run the `Collaborative_Reasoning.ipynb` file to see the numerical results. 
+* Run the `Collaborative_Reasoning_p.ipynb` file to see the numerical results for different vaules of $p$. 
