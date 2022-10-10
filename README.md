@@ -4,12 +4,20 @@ Codes for the paper
 
 by Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato
 
-accepted with minor revision at *IEEE Journal on Selected Areas in Communications (JSAC)*.
+under revision at *IEEE Journal on Selected Areas in Communications (JSAC)*.
 
 ## How to Use
 Follow the instructions under different folders to get the numerical results of each module within the proposed architecture. 
 
 ## If you use our code, please cite the paper
 ```
-
+@article{Xiao2022iRMLSC,
+  title={Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning},
+  author={Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato},
+  journal={IEEE Journal on Selected Areas in Communications (JSAC)},
+  volume={},
+  number={},
+  pages={},
+  year={}
+}
 ```
