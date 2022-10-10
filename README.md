@@ -1,7 +1,9 @@
 # iRML Semantic-aware Communication Networks
 Codes for the paper 
 **Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning** 
+
 by Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato
+
 accepted with minor revision at *IEEE Journal on Selected Areas in Communications (JSAC)*.
 
 ## How to Use
