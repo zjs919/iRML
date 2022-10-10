@@ -19,3 +19,4 @@ The Pubmed dataset is also included, but the results are not presented in the pa
 
 ## How to Use
 * Run the `Collaborative_Reasoning_p.ipynb` file to see the numerical results for different vaules of $p$. 
+* Run the `Collaborative_Reasoning_NumDevice.ipynb` file to see the numerical results for different numbers of devices. 
