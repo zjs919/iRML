@@ -9,4 +9,4 @@ We use the [FB15k-237](https://drive.google.com/file/d/1klWL11nW3ZS6b2MtLW0MHnXu
 2. Run the following scripts under `scripts/`
     *   `./pathfinder.sh ${relation_name}`  # find the reasoning paths
     *   `./iRML.sh ${relation_name}` # see the numerical results
-3. Put `Semantic_Layering.ipynb` into the corresponding task folder and run. Replace the `train_pos` file with the output file, and run `./iRML.sh ${relation_name}` again to see the numerical results considering semantic hierarchy. 
+3. Put `Semantic_Layering.ipynb` into the corresponding task folder and run. Replace the `train_pos` file with the output file, and run `./iRML.sh ${relation_name}` again to see the numerical results for a specific semantic layer. 
