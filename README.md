@@ -11,13 +11,10 @@ Follow the instructions under different folders to get the numerical results of 
 
 ## If you use our code, please cite the paper
 ```
-@article{Xiao2022iRMLSC,
+@article{xiao2022imitation,
   title={Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning},
-  author={Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato},
-  journal={},
-  volume={},
-  number={},
-  pages={},
-  year={}
+  author={Xiao, Yong and Sun, Zijian and Shi, Guangming and Niyato, Dusit},
+  journal={arXiv preprint arXiv:2210.16118},
+  year={2022}
 }
 ```
