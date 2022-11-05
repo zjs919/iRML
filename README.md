@@ -14,7 +14,7 @@ Follow the instructions under different folders to get the numerical results of 
 @article{xiao2022imitation,
   title={Imitation Learning-based Implicit Semantic-aware Communication Networks: Multi-layer Representation and Collaborative Reasoning},
   author={Xiao, Yong and Sun, Zijian and Shi, Guangming and Niyato, Dusit},
-  journal={arXiv preprint arXiv:2210.16118},
+  journal={accepted at IEEE Journal on Selected Areas in Communications (JSAC)},
   year={2022}
 }
 ```
