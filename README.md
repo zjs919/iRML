@@ -4,7 +4,7 @@ Codes for the paper
 
 by Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato
 
-under revision at *IEEE Journal on Selected Areas in Communications (JSAC)*.
+accepted by *IEEE Journal on Selected Areas in Communications (JSAC)*.
 
 ## How to Use
 Follow the instructions under different folders to get the numerical results of each module within the proposed architecture. 
