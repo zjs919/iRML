@@ -6,6 +6,8 @@ by Yong Xiao, Zijian Sun, Guangming Shi, Dusit Niyato
 
 accepted by *IEEE Journal on Selected Areas in Communications (JSAC)*.
 
+Paper available at: https://arxiv.org/abs/2210.16118
+
 ## How to Use
 Follow the instructions under different folders to get the numerical results of each module within the proposed architecture. 
 
